@@ -30,4 +30,4 @@ function getTotalX(a: number[], b: number[]): number {
 
 console.log(getTotalX([2, 4], [16, 32, 96]));
 
-// //Time complexity: O((n + m) * log M)
+//Time complexity: O((n + m) * log M)
