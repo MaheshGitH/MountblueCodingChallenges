@@ -19,3 +19,5 @@ function plusMinus(arr: number[]): void {
 }
 
 plusMinus([-1, -1, 0, 1, 1]);
+
+//Time complexity: O(n)
