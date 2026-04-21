@@ -28,8 +28,5 @@ function countingValleys(steps: number, path: string): number {
 }
 
 console.log(countingValleys(8, "UDDDUDUU"));
-<<<<<<< HEAD
 
 //Time complexity: O(n)
-=======
->>>>>>> 5dfab6e4a1d383d4d6c2ec0d803b11d876fbbbf1
