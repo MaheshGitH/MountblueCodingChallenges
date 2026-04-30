@@ -11,6 +11,7 @@ function circularArrayRotation(
   queries: number[],
 ): number[] {
   const final = [];
+  k = k % a.length;
   for (const num of queries) {
     final.push(a[(num - k + a.length) % a.length]);
   }
