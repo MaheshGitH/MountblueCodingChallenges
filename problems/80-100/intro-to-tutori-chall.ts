@@ -1,0 +1,3 @@
+function introTutorial(V: number, arr: number[]): number {
+  return arr.indexOf(V);
+}
