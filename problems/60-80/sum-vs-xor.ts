@@ -25,5 +25,3 @@ function sumXor(n: number): number {
 }
 
 console.log(sumXor(1));
-
-console.log(1 ^ 1);
